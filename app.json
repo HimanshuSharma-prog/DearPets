@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo1.png",
         "backgroundColor": "#2B2E32"
-      }
+      },
+      "package": "com.himanshuswami.DearPets"
     },
     "web": {
       "favicon": "./assets/images/logo1.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "03d70c65-a8df-458d-9f6e-30da5cf0651d"
+      }
     }
   }
 }

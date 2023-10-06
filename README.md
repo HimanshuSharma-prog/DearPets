@@ -23,3 +23,11 @@ or
 ## API Used
 
 In this app the [Unsplash image api](https://unsplash.com/) is used to fetch the images
+
+## For apk build use
+
+## `eas build -p android --profile preview`
+
+## For playdtore build use
+
+## `eas build -p android`
